@@ -1,2 +1,2 @@
 # Code-alpha
-Social Media Platform
+Social Media Platform Using HTML/css/Javascript and backend framework like Django.
